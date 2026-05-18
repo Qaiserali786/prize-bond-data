@@ -20,5 +20,18 @@
         "pdfAssetPath": "assets/pdfs/PKR-100-15-12-2026.pdf"
       }
     }
+  },
+  "2025": {
+    "10-12-2025": {
+       "25000 Premium Prize Bond": {
+          "firstPrizes": ["011964", "248597"],
+          "secondPrizes": ["134967", "142559", "235255", "368635", "886733"],
+          "thirdPrizes": ["000277", "002265", "005925", "006556", "007788"],
+          "firstPrizeMoney": 30000000,
+          "secondPrizeMoney": 10000000,
+          "thirdPrizeMoney": 300000,
+          "pdfAssetPath": "assets/pdfs/PKR-25000-Premium-10-12-2025.pdf"
+       }
+    }
   }
 }

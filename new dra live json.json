@@ -1,0 +1,24 @@
+{
+  "2026": {
+    "15-12-2026": {
+      "200": {
+        "firstPrizes": ["000000", "111111", "222222", "333333", "444444"],
+        "secondPrizes": ["555555", "666666", "777777", "888888", "999999"],
+        "thirdPrizes": ["123456", "234567", "345678", "456789", "567890"],
+        "firstPrizeMoney": 750000,
+        "secondPrizeMoney": 250000,
+        "thirdPrizeMoney": 1250,
+        "pdfAssetPath": "assets/pdfs/PKR-200-15-12-2026.pdf"
+      },
+      "100": {
+        "firstPrizes": ["999888"],
+        "secondPrizes": ["777666", "555444", "333222"],
+        "thirdPrizes": ["111000", "999888", "777666", "555444", "333222"],
+        "firstPrizeMoney": 700000,
+        "secondPrizeMoney": 200000,
+        "thirdPrizeMoney": 1000,
+        "pdfAssetPath": "assets/pdfs/PKR-100-15-12-2026.pdf"
+      }
+    }
+  }
+}

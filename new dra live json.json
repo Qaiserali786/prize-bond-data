@@ -3,49 +3,51 @@
     "10-06-2026": {
       "25000 Premium Prize Bond": {
         "firstPrizes": [
-          "823451"
+          "000000"
         ],
         "secondPrizes": [
-          "123456",
-          "234567",
-          "345678",
-          "456789",
-          "567890"
+          "000000",
+          "000000",
+          "000000",
+          "000000",
+          "000000"
         ],
         "thirdPrizes": [
-          "678901",
-          "789012",
-          "890123",
-          "901234",
-          "012345"
+          "000000",
+          "000000",
+          "000000",
+          "000000",
+          "000000"
         ],
         "firstPrizeMoney": 30000000,
         "secondPrizeMoney": 10000000,
         "thirdPrizeMoney": 300000,
-        "pdfAssetPath": "assets/pdfs/PKR-25000-Premium-10-06-2026.pdf"
+        "pdfAssetPath": "assets/pdfs/PKR-25000-Premium-10-06-2026.pdf",
+        "status": "Draw will be announced soon"
       },
       "40000 Premium Prize Bond": {
         "firstPrizes": [
-          "934562"
+          "000000"
         ],
         "secondPrizes": [
-          "234561",
-          "345672",
-          "456783",
-          "567894",
-          "678905"
+          "000000",
+          "000000",
+          "000000",
+          "000000",
+          "000000"
         ],
         "thirdPrizes": [
-          "789016",
-          "890127",
-          "901238",
-          "012349",
-          "123450"
+          "000000",
+          "000000",
+          "000000",
+          "000000",
+          "000000"
         ],
         "firstPrizeMoney": 80000000,
         "secondPrizeMoney": 30000000,
         "thirdPrizeMoney": 500000,
-        "pdfAssetPath": "assets/pdfs/PKR-40000-Premium-10-06-2026.pdf"
+        "pdfAssetPath": "assets/pdfs/PKR-40000-Premium-10-06-2026.pdf",
+        "status": "Draw will be announced soon"
       }
     }
   }

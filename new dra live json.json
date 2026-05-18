@@ -1,26 +1,52 @@
 {
   "2026": {
-    "15-06-2026": {
-      "200": {
-        "firstPrizes": ["123456", "654321"],
-        "secondPrizes": ["111111", "222222", "333333", "444444", "555555"],
-        "thirdPrizes": ["666666", "777777", "888888", "999999", "000000"],
-        "firstPrizeMoney": 750000,
-        "secondPrizeMoney": 250000,
-        "thirdPrizeMoney": 1250,
-        "pdfAssetPath": "assets/pdfs/2026.pdf"
+    "10-06-2026": {
+      "25000 Premium Prize Bond": {
+        "firstPrizes": [
+          "823451"
+        ],
+        "secondPrizes": [
+          "123456",
+          "234567",
+          "345678",
+          "456789",
+          "567890"
+        ],
+        "thirdPrizes": [
+          "678901",
+          "789012",
+          "890123",
+          "901234",
+          "012345"
+        ],
+        "firstPrizeMoney": 30000000,
+        "secondPrizeMoney": 10000000,
+        "thirdPrizeMoney": 300000,
+        "pdfAssetPath": "assets/pdfs/PKR-25000-Premium-10-06-2026.pdf"
       },
-      "17-06-2026": {
-         "100": {
-            "firstPrizes": ["000001"],
-            "secondPrizes": ["000002", "000003"],
-            "thirdPrizes": ["000004", "000005", "000006"],
-            "firstPrizeMoney": 700000,
-            "secondPrizeMoney": 200000,
-            "thirdPrizeMoney": 1000,
-            "pdfAssetPath": "assets/pdfs/PKR-100-17-11-2026.pdf"
-         }
+      "40000 Premium Prize Bond": {
+        "firstPrizes": [
+          "934562"
+        ],
+        "secondPrizes": [
+          "234561",
+          "345672",
+          "456783",
+          "567894",
+          "678905"
+        ],
+        "thirdPrizes": [
+          "789016",
+          "890127",
+          "901238",
+          "012349",
+          "123450"
+        ],
+        "firstPrizeMoney": 80000000,
+        "secondPrizeMoney": 30000000,
+        "thirdPrizeMoney": 500000,
+        "pdfAssetPath": "assets/pdfs/PKR-40000-Premium-10-06-2026.pdf"
       }
     }
- 
-}  
+  }
+}

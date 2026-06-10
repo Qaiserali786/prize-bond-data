@@ -24,7 +24,7 @@
         "secondPrizeMoney": 10000000,
         "thirdPrizeMoney": 300000,
         "pdfAssetPath": "assets/pdfs/PKR-25000-10-06-2026.pdf",
-        "status": "Draw will be announced soon"
+        "status": "Draw announced"
       },
       "40000 Premium Prize Bond": {
         "firstPrizes": [
@@ -46,7 +46,7 @@
         "secondPrizeMoney": 30000000,
         "thirdPrizeMoney": 500000,
         "pdfAssetPath": "assets/pdfs/PKR-40000-10-06-2026.pdf",
-        "status": "Draw will be announced soon"
+        "status": "Draw announced"
       }
     }
   }

@@ -1,29 +1,25 @@
 {
-  "2026": {
-    "15-06-2026": {
-      "200 Prize Bond": {
-        "firstPrizes": [
-          "000000"
-        ],
-        "secondPrizes": [
-          "000000",
-          "000000",
-          "000000",
-          "000000",
-          "000000"
-        ],
-        "thirdPrizes": [
-          "000000",
-          "000000",
-          "000000",
-          "000000",
-          "000000"
-        ],
-        "firstPrizeMoney": 750000,
-        "secondPrizeMoney": 250000,
-        "thirdPrizeMoney": 1250,
-        "pdfAssetPath": "assets/pdfs/PKR-200-15-06-2026.pdf"
-      }
+  "15-06-2026": {
+    "200": {
+      "firstPrizes": [
+        "000000"
+      ],
+      "secondPrizes": [
+        "000000",
+        "000000",
+        "000000"
+      ],
+      "thirdPrizes": [
+        "000000",
+        "000000",
+        "000000",
+        "000000",
+        "000000"
+      ],
+      "firstPrizeMoney": 750000,
+      "secondPrizeMoney": 250000,
+      "thirdPrizeMoney": 1250,
+      "pdfAssetPath": "assets/PKR-200-15-06-2026.pdf"
     }
   }
 }

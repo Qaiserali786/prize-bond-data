@@ -1,8 +1,10 @@
 {
   "2026": {
     "15-09-2026": {
-      "200 Prize Bond": {
-        "firstPrizes": ["000000"],
+      "200": {
+        "firstPrizes": [
+          "000000"
+        ],
         "secondPrizes": [
           "000000",
           "000000",
@@ -20,7 +22,7 @@
         "firstPrizeMoney": 750000,
         "secondPrizeMoney": 250000,
         "thirdPrizeMoney": 1250,
-        "thirdPrizeCount": 2394
+        "pdfAssetPath": "assets/pdfs/PKR-200-15-09-2026.pdf"
       }
     }
   }
